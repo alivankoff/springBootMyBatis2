@@ -14,4 +14,4 @@
  
  ### Verifying
  
- - In the browser try to run http://localhost:9000/v1/courses, you should be seeing the response bacl
+ - In the browser try to run http://localhost:9000/v1/courses, you should be seeing the response back
