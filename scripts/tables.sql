@@ -1,3 +1,5 @@
+CREATE DATABASE spring;
+
 CREATE TABLE spring.COURSE ( id int unsigned not null auto_increment,
                              NAME varchar(20) not null,
                              DESCRIPTION varchar(1000),
